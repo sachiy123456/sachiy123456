@@ -55,7 +55,7 @@
 
 # 📁 Featured Repository
 
-## 🔐 CEHv13-Modules-PDF-Reports
+## 🔐 CEHv13-All-Module-Reports
 
 📌 Organized reports for CEHv13 modules with practical documentation, screenshots, findings, and notes.
 
