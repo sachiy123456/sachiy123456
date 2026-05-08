@@ -18,20 +18,18 @@
 - Cloud Security  
 
 🛡️ Hands-on with:
+- Nmap
+- Nikto
+- Wireshark
+- Burp Suite
+- Nessus
+- Metasploit
+- OWASP ZAP
+- Splunk
+- Kiwi Syslog
+- Zenmap
+- OWASP Top 10
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nikto-Web%20Scanner-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00C176?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Metasploit-Penetration%20Testing-2596CD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-Security%20Testing-00549E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Splunk-Log%20Monitoring-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kiwi%20Syslog-Log%20Management-darkgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zenmap-Nmap%20GUI-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-Web%20Security%20Risks-red?style=for-the-badge" />
-</p>
 🔍 Exploring:
 - Android Hacking
 - Cryptography
