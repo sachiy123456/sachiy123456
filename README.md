@@ -1,7 +1,5 @@
-# Sachchitanand-Yadav
-##About me
 <h1 align="center">Hey there 👋, I'm Sachchitanand Yadav</h1>
-<h3 align="center">BCA Graduate • CEH v13 Certified • Cybersecurity Enthusiast</h3>
+<h3 align="center"> B.Sc. Cyber & Digital Science Graduate • CEH v13 Certified • Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Web+Application+Penetration+Tester;SOC+Analyst+Learner;Digital+Forensics+Explorer;Threat+Hunter+in+Progress;Cybersecurity+Never+Sleeps+%F0%9F%94%A5" alt="Typing SVG" />
@@ -11,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 BCA Graduate | CEH v13 Certified  
+🎓 B.Sc. Cyber & Digital Science Graduate | CEH v13 Certified  
 💻 Focused on **Web Application Penetration Testing**, **SOC Analyst Skills**, and **Digital Forensics**  
 🧠 Currently Learning:  
 - CHFI  
